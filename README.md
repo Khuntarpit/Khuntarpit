@@ -2,9 +2,7 @@
 <h3 align="center">A passionate mobile application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khuntarpit&label=Profile%20views&color=0e75b6&style=flat" alt="khuntarpit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khuntarpit" alt="khuntarpit" /></a> </p>
-
+ 
 <p align="left"> <a href="https://twitter.com/arpit_khunt_" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_khunt_?logo=twitter&style=for-the-badge" alt="arpit_khunt_" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs, Laravel, React JS,**
